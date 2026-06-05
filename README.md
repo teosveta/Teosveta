@@ -1,27 +1,27 @@
 <!-- ============================================================
      TEOSVETA VELKOVA — GitHub Profile README
-     
+
      TO UPDATE LATER:
      - Add actual repo links to the project names in the Selected Projects table
-     - Update Certifications table when courses are completed (change 🔄 to ✅)
+     - Update Certifications table when courses are completed (change In Progress to Done)
      - Add Azure cert badges as you earn them (DP-900, AI-900, SC-900)
      ============================================================ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=1D4ED8&amp;height=150&amp;section=header&amp;text=Teosveta%20Velkova&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=AI%20%26%20Data%20Engineer%20%7C%20FinTech%20%26%20RegTech%20%7C%20Cybersecurity%20%26%20AI%20Safety&amp;descSize=15&amp;descAlignY=65&amp;descColor=BFDBFE" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=1D4ED8&height=150&section=header&text=Teosveta%20Velkova&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%C2%B7%20Data%20Engineer%20%7C%20FinTech%20%7C%20RegTech%20%7C%20Cybersecurity%20%7C%20AI%20Safety&descSize=15&descAlignY=65&descColor=BFDBFE)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/teosveta-velkova/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;
+  &#160;
   <a href="https://teosveta.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-1D4ED8?style=flat-square&amp;logo=firefox-browser&amp;logoColor=white" alt="Portfolio"/>
   </a>
-  &nbsp;
+  &#160;
   <a href="mailto:vteosveta@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
   </a>
-  &nbsp;
+  &#160;
   <img src="https://komarev.com/ghpvc/?username=teosveta&amp;label=Profile%20Views&amp;color=1D4ED8&amp;style=flat-square" alt="Profile Views"/>
 </div>
 
@@ -29,37 +29,37 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-I'm a **Data & AI Engineer** based in **Sofia, Bulgaria**, building systems at the intersection of **cloud engineering**, **AI-powered automation**, and **regulatory technology** — with a growing specialization in **AI safety**, **AI governance**, and **security-aware design**.
+I'm a **Data and AI Engineer** based in **Sofia, Bulgaria**, building systems at the intersection of **cloud engineering**, **AI-powered automation**, and **regulatory technology** — with a growing specialization in **AI safety**, **AI governance**, and **security-aware design**.
 
 My work spans production-grade cloud data pipelines (Azure, Databricks, PySpark), AI-powered applications, and compliance automation for cross-border regulatory frameworks. I believe the next generation of AI and data systems needs to be not just powerful, but **auditable, trustworthy, and secure** — and I'm actively building toward that specialization.
 
 ---
 
-## 🔐 Focus Areas
+## Focus Areas
 
 | Area | What I'm Building |
 |---|---|
-| **AI Safety & Governance** | Understanding how AI systems fail, how to evaluate them responsibly, and how to design with alignment in mind. Currently: BlueDot Impact AI Safety Fundamentals. |
-| **FinTech & Quantitative Finance** | Data-driven financial analysis, market fundamentals, and quantitative methods. Currently: Bloomberg Market Concepts (BMC). |
+| **AI Safety and Governance** | Understanding how AI systems fail, how to evaluate them responsibly, and how to design with alignment in mind. Currently: BlueDot Impact AI Safety Fundamentals. |
+| **FinTech and Quantitative Finance** | Data-driven financial analysis, market fundamentals, and quantitative methods. Currently: Bloomberg Market Concepts (BMC). |
 | **Security-Aware Engineering** | Building data pipelines, cloud infrastructure, and AI systems with data integrity, access control, compliance, and risk management at the core — not as an afterthought. |
 | **Regulatory Technology (RegTech)** | Automating complex compliance processes across EU regulatory frameworks, ESG reporting standards, and financial compliance systems. |
 
 ---
 
-## 🏆 Selected Projects
+## Selected Projects
 
 | Project | Description | Recognition |
 |---|---|---|
-| **TachoCross** | SaaS platform automating EU posting declarations via RTPD integration — reducing administrative burden and supporting Mobility Package I compliance for international road transport operators | 🥇 Top 3 / 189 Teams · ERUA Pan-European Social Entrepreneurship Lab |
-| **Erosion Intelligence Platform** | Full-stack AI + IoT environmental monitoring for solar PV parks — satellite imagery, ML-driven erosion detection, soil carbon analysis, biodiversity monitoring, and automated ESG reporting | 🏅 Most Innovative Solution · AmCham Bulgaria Hackathon |
-| **HumAct** | ESG automation platform converting corporate employee volunteering into quantifiable Social ESG metrics with automated compliance reporting | 🥇 1st Place · Digital Marathon Startup Hackathon |
-| **SmartWallet** | AI-powered student finance platform with multi-currency wallets, gamified financial education, cashback incentives, and an integrated AI spending assistant | 🥉 3rd Place · Paysafe AI Hackathon |
+| **TachoCross** | SaaS platform automating EU posting declarations via RTPD integration — reducing administrative burden and supporting Mobility Package I compliance for international road transport operators | Top 3 / 189 Teams · ERUA Pan-European Social Entrepreneurship Lab |
+| **Erosion Intelligence Platform** | Full-stack AI and IoT environmental monitoring for solar PV parks — satellite imagery, ML-driven erosion detection, soil carbon analysis, biodiversity monitoring, and automated ESG reporting | Most Innovative Solution · AmCham Bulgaria Hackathon |
+| **HumAct** | ESG automation platform converting corporate employee volunteering into quantifiable Social ESG metrics with automated compliance reporting | 1st Place · Digital Marathon Startup Hackathon |
+| **SmartWallet** | AI-powered student finance platform with multi-currency wallets, gamified financial education, cashback incentives, and an integrated AI spending assistant | 3rd Place · Paysafe AI Hackathon |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -70,7 +70,7 @@ My work spans production-grade cloud data pipelines (Azure, Databricks, PySpark)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### Cloud & Data Engineering
+### Cloud and Data Engineering
 
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
@@ -79,13 +79,13 @@ My work spans production-grade cloud data pipelines (Azure, Databricks, PySpark)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### AI & Data Science
+### AI and Data Science
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-### Web & Tools
+### Web and Tools
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -93,44 +93,44 @@ My work spans production-grade cloud data pipelines (Azure, Databricks, PySpark)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-### 🔐 Developing — Security & Quantitative Systems
+### Developing — Security and Quantitative Systems
 
-`AI Safety` &nbsp; `AI Governance` &nbsp; `Responsible AI` &nbsp; `AI Risk Assessment` &nbsp; `Cybersecurity Fundamentals` &nbsp; `Network Security` &nbsp; `Quantitative Analysis` &nbsp; `Statistical Modeling` &nbsp; `Big Data Systems`
+`AI Safety` `AI Governance` `Responsible AI` `AI Risk Assessment` `Cybersecurity Fundamentals` `Network Security` `Quantitative Analysis` `Statistical Modeling` `Big Data Systems`
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 | Certification | Issuer | Status |
 |---|---|---|
-| AI Safety Fundamentals | BlueDot Impact | 🔄 In Progress |
-| Bloomberg Market Concepts (BMC) | Bloomberg | 🔄 In Progress |
+| AI Safety Fundamentals | BlueDot Impact | In Progress |
+| Bloomberg Market Concepts (BMC) | Bloomberg | In Progress |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=teosveta&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" height="165" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
+  &#160;&#160;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teosveta&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=7" height="165" alt="Top Languages"/>
 </div>
 
 ---
 
-## 🤝 Open to Collaborating On
+## Open to Collaborating On
 
 - **AI safety** — evaluation frameworks, responsible AI tooling, alignment research
-- **FinTech & RegTech** — compliance automation, payments systems, financial data pipelines
+- **FinTech and RegTech** — compliance automation, payments systems, financial data pipelines
 - **Cloud data engineering** — Azure pipelines, data architecture, data quality
-- **ESG & sustainability technology**
+- **ESG and sustainability technology**
 - **Security-conscious AI system design**
 
 <br/>
 
-📬 [vteosveta@gmail.com](mailto:vteosveta@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/teosveta-velkova/) &nbsp;·&nbsp; [Portfolio](https://teosveta.netlify.app/)
+[vteosveta@gmail.com](mailto:vteosveta@gmail.com) · [LinkedIn](https://www.linkedin.com/in/teosveta-velkova/) · [Portfolio](https://teosveta.netlify.app/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=1D4ED8&amp;height=80&amp;section=footer" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=1D4ED8&height=80&section=footer)
 
 
 # About Me:
