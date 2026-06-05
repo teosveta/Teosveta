@@ -1,3 +1,12 @@
+<!-- ============================================================
+     TEOSVETA VELKOVA — GitHub Profile README
+
+     TO UPDATE LATER:
+     - Add actual repo links to the project names in the Selected Projects table
+     - Update Certifications table when courses are completed (change In Progress to Done)
+     - Add Azure cert badges as you earn them (DP-900, AI-900, SC-900)
+     ============================================================ -->
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=1D4ED8&height=200&section=header&text=Teosveta%20Velkova&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20%C2%B7%20Data%20Engineer%20%7C%20FinTech%20%7C%20RegTech%20%7C%20Cybersecurity%20%7C%20AI%20Safety&descSize=15&descAlignY=58&descColor=BFDBFE)
 
 <div align="center">
@@ -102,9 +111,12 @@ My work spans production-grade cloud data pipelines (Azure, Databricks, PySpark)
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teosveta&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" height="165" alt="GitHub Stats"/>
-  &#160;&#160;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teosveta&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=7" height="165" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teosveta&amp;theme=tokyonight" alt="GitHub Stats" width="100%"/>
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=teosveta&amp;theme=tokyonight" alt="Repos by Language" height="160"/>
+  &#160;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=teosveta&amp;theme=tokyonight" alt="Most Committed Language" height="160"/>
 </div>
 
 ---
