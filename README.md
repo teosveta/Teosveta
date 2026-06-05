@@ -1,5 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=1D4ED8&height=200&section=header&text=Teosveta%20Velkova&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20%C2%B7%20Security%20%C2%B7%20Data%20%C2%B7%20FinTech%20%C2%B7%20Cloud%20Engineering&descSize=15&descAlignY=58&descColor=BFDBFE)
+<!-- ============================================================
+     TEOSVETA VELKOVA — GitHub Profile README
+     Designed to be stable for ~1 year without edits.
+     Only update needed: swap "In Progress" to "Completed" in
+     the Certifications table as you pass each one.
+     ============================================================ -->
+
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=1D4ED8&amp;height=200&amp;section=header&amp;text=Teosveta%20Velkova&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=36&amp;desc=AI%20%C2%B7%20Security%20%C2%B7%20Data%20%C2%B7%20FinTech%20%C2%B7%20Cloud%20Engineering&amp;descSize=15&amp;descAlignY=58&amp;descColor=BFDBFE" width="100%" alt="header"/><br/>
   <a href="https://www.linkedin.com/in/teosveta-velkova/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
   </a>
