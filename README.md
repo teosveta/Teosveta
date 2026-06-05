@@ -1,7 +1,4 @@
-
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=1D4ED8&height=200&section=header&text=Teosveta%20Velkova&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20%C2%B7%20Security%20%C2%B7%20Data%20%C2%B7%20FinTech%20%C2%B7%20Cloud%20Engineering&descSize=15&descAlignY=58&descColor=BFDBFE)
-
 <div align="center">
   <a href="https://www.linkedin.com/in/teosveta-velkova/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
@@ -17,8 +14,6 @@
   &#160;
   <img src="https://komarev.com/ghpvc/?username=teosveta&amp;label=Profile%20Views&amp;color=1D4ED8&amp;style=flat-square" alt="Profile Views"/>
 </div>
-
-<br/>
 
 ---
 
