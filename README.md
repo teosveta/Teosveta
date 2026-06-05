@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=1D4ED8&height=200&section=header&text=Teosveta%20Velkova&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Data%20%C2%B7%20Security%20%C2%B7%20AI%20%7C%20FinTech%20%C2%B7%20RegTech%20%7C%20Cloud%20Engineering&descSize=15&descAlignY=58&descColor=BFDBFE)
+
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=1D4ED8&height=200&section=header&text=Teosveta%20Velkova&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20%C2%B7%20Security%20%C2%B7%20Data%20%C2%B7%20FinTech%20%C2%B7%20Cloud%20Engineering&descSize=15&descAlignY=58&descColor=BFDBFE)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/teosveta-velkova/">
@@ -22,9 +24,11 @@
 
 ## About Me
 
-I build systems at the intersection of **technology**, **regulation**, and **real-world impact** — from GDPR-compliant compliance platforms and AI-powered environmental monitoring, to payment security architectures and cloud data infrastructure spanning multiple countries.
+I build at the intersection of **engineering** and **regulation** — systems designed to be not just functional, but secure, compliant, and trustworthy.
 
-What drives me isn't a single technology or role. It's the intersection itself: engineering that understands the law, compliance work that runs on code, AI systems that need to be trustworthy. I work across cloud data engineering, cybersecurity, FinTech, and AI safety — not because I can't choose, but because the interesting problems live exactly where these fields meet.
+My work spans cloud infrastructure, cybersecurity, AI safety, and FinTech: GDPR-compliant platforms automating EU regulatory workflows across borders, AI-powered environmental monitoring systems, payment security architecture, and enterprise data pipelines running across multiple countries in Azure. The common thread is engineering where correctness and compliance matter as much as performance — systems that live at the boundary between code and law.
+
+Computer Science student at New Bulgarian University, Sofia. Cloud data engineer by practice. Competitive hackathon builder — with top finishes in AI, ESG, and FinTech.
 
 ---
 
