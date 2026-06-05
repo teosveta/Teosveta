@@ -7,22 +7,22 @@
      - Add Azure cert badges as you earn them (DP-900, AI-900, SC-900)
      ============================================================ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1D4ED8&height=150&section=header&text=Teosveta%20Velkova&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Engineer%20%7C%20FinTech%20%26%20RegTech%20%7C%20Cybersecurity%20%26%20AI%20Safety&descSize=15&descAlignY=65&descColor=BFDBFE" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=1D4ED8&amp;height=150&amp;section=header&amp;text=Teosveta%20Velkova&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=AI%20%26%20Data%20Engineer%20%7C%20FinTech%20%26%20RegTech%20%7C%20Cybersecurity%20%26%20AI%20Safety&amp;descSize=15&amp;descAlignY=65&amp;descColor=BFDBFE" width="100%"/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/teosveta-velkova/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://teosveta.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-1D4ED8?style=flat-square&logo=firefox-browser&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-1D4ED8?style=flat-square&amp;logo=firefox-browser&amp;logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;
   <a href="mailto:vteosveta@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=teosveta&label=Profile%20Views&color=1D4ED8&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=teosveta&amp;label=Profile%20Views&amp;color=1D4ED8&amp;style=flat-square" alt="Profile Views"/>
 </div>
 
 <br/>
@@ -111,9 +111,9 @@ My work spans production-grade cloud data pipelines (Azure, Databricks, PySpark)
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teosveta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=teosveta&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" height="165" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teosveta&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teosveta&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=7" height="165" alt="Top Languages"/>
 </div>
 
 ---
@@ -130,7 +130,7 @@ My work spans production-grade cloud data pipelines (Azure, Databricks, PySpark)
 
 📬 [vteosveta@gmail.com](mailto:vteosveta@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/teosveta-velkova/) &nbsp;·&nbsp; [Portfolio](https://teosveta.netlify.app/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1D4ED8&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=1D4ED8&amp;height=80&amp;section=footer" width="100%"/>
 
 
 # About Me:
