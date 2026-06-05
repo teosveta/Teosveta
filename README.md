@@ -1,13 +1,13 @@
 <!-- ============================================================
      TEOSVETA VELKOVA — GitHub Profile README
+     Designed to be stable for ~1 year without edits.
 
-     TO UPDATE LATER:
-     - Add actual repo links to the project names in the Selected Projects table
-     - Update Certifications table when courses are completed (change In Progress to Done)
-     - Add Azure cert badges as you earn them (DP-900, AI-900, SC-900)
+     ONLY things you may want to update over time:
+     - Certification statuses: change "In Progress" → "Completed" as you pass them
+     - Project links: add actual repo URLs when repos are ready
      ============================================================ -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=1D4ED8&height=200&section=header&text=Teosveta%20Velkova&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20%C2%B7%20Data%20Engineer%20%7C%20FinTech%20%7C%20RegTech%20%7C%20Cybersecurity%20%7C%20AI%20Safety&descSize=15&descAlignY=58&descColor=BFDBFE)
+![header](https://capsule-render.vercel.app/api?type=waving&color=1D4ED8&height=200&section=header&text=Teosveta%20Velkova&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Data%20%C2%B7%20Security%20%C2%B7%20AI%20%7C%20FinTech%20%C2%B7%20RegTech%20%7C%20Cloud%20Engineering&descSize=15&descAlignY=58&descColor=BFDBFE)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/teosveta-velkova/">
@@ -31,31 +31,35 @@
 
 ## About Me
 
-I'm a **Data and AI Engineer** based in **Sofia, Bulgaria**, building systems at the intersection of **cloud engineering**, **AI-powered automation**, and **regulatory technology** — with a growing specialization in **AI safety**, **AI governance**, and **security-aware design**.
+I build systems at the intersection of **technology**, **regulation**, and **real-world impact** — from GDPR-compliant compliance platforms and AI-powered environmental monitoring, to payment security architectures and cloud data infrastructure spanning multiple countries.
 
-My work spans production-grade cloud data pipelines (Azure, Databricks, PySpark), AI-powered applications, and compliance automation for cross-border regulatory frameworks. I believe the next generation of AI and data systems needs to be not just powerful, but **auditable, trustworthy, and secure** — and I'm actively building toward that specialization.
+What drives me isn't a single technology or role. It's the intersection itself: engineering that understands the law, compliance work that runs on code, AI systems that need to be trustworthy. I work across cloud data engineering, cybersecurity, FinTech, and AI safety — not because I can't choose, but because the interesting problems live exactly where these fields meet.
+
+Beyond the code: I advocate for digital rights and EU democracy at JEF Europe, compete in pan-European innovation labs, and spent a year and a half as a **national-level cheerleading competitor** — which turned out to be surprisingly good training for deadline-driven hackathons.
 
 ---
 
-## Focus Areas
+## What I Work On
 
-| Area | What I'm Building |
+| Focus | Approach |
 |---|---|
-| **AI Safety and Governance** | Understanding how AI systems fail, how to evaluate them responsibly, and how to design with alignment in mind. Currently: BlueDot Impact AI Safety Fundamentals. |
-| **FinTech and Quantitative Finance** | Data-driven financial analysis, market fundamentals, and quantitative methods. Currently: Bloomberg Market Concepts (BMC). |
-| **Security-Aware Engineering** | Building data pipelines, cloud infrastructure, and AI systems with data integrity, access control, compliance, and risk management at the core — not as an afterthought. |
-| **Regulatory Technology (RegTech)** | Automating complex compliance processes across EU regulatory frameworks, ESG reporting standards, and financial compliance systems. |
+| **Cybersecurity & Data Privacy** | Security-first engineering: GDPR compliance, role-based access control, audit trail design, and privacy-by-design built into systems from the start — not patched in later. |
+| **Regulatory Technology (RegTech)** | Turning complex EU frameworks — GDPR, NIS2, Mobility Package I, ESG standards — into working software. Compliance automation that actually runs in production. |
+| **AI Systems & Safety** | Building AI-powered applications while taking seriously how they can fail: responsible AI design, safe system boundaries, and alignment-aware engineering. |
+| **FinTech & Financial Compliance** | Payment security architecture, digital wallet systems, financial data analysis, and the overlap between financial regulation and technology. |
 
 ---
 
 ## Selected Projects
 
-| Project | Description | Recognition |
+> The common thread across domains: systems built at the intersection of technology, regulation, and social impact.
+
+| Project | What It Does | Recognition |
 |---|---|---|
-| **TachoCross** | SaaS platform automating EU posting declarations via RTPD integration — reducing administrative burden and supporting Mobility Package I compliance for international road transport operators | Top 3 / 189 Teams · ERUA Pan-European Social Entrepreneurship Lab |
-| **Erosion Intelligence Platform** | Full-stack AI and IoT environmental monitoring for solar PV parks — satellite imagery, ML-driven erosion detection, soil carbon analysis, biodiversity monitoring, and automated ESG reporting | Most Innovative Solution · AmCham Bulgaria Hackathon |
-| **HumAct** | ESG automation platform converting corporate employee volunteering into quantifiable Social ESG metrics with automated compliance reporting | 1st Place · Digital Marathon Startup Hackathon |
-| **SmartWallet** | AI-powered student finance platform with multi-currency wallets, gamified financial education, cashback incentives, and an integrated AI spending assistant | 3rd Place · Paysafe AI Hackathon |
+| **TachoCross** | GDPR-compliant SaaS platform automating EU posting declarations via RTPD integration — privacy-by-design for cross-border worker personal data under Mobility Package I | Top 3 / 189 Teams · ERUA Pan-European Social Entrepreneurship Lab |
+| **Erosion Intelligence Platform** | Full-stack AI and IoT environmental monitoring for solar PV parks — satellite imagery, ML erosion detection, soil carbon analysis, and automated ESG reporting | Most Innovative Solution · AmCham Bulgaria Hackathon |
+| **HumAct** | ESG automation platform converting employee volunteering into quantifiable Social ESG metrics with automated compliance reporting | 1st Place · Digital Marathon Startup Hackathon |
+| **SmartWallet** | AI-powered student finance platform with payment security design, multi-currency wallets, fraud detection, and gamified financial education | 3rd Place · Paysafe AI Hackathon |
 
 ---
 
@@ -85,6 +89,11 @@ My work spans production-grade cloud data pipelines (Azure, Databricks, PySpark)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
+### Security and Compliance
+
+`GDPR Compliance` `Privacy-by-Design` `Role-Based Access Control` `Audit Trail Management`
+`EU NIS2 Awareness` `Azure Security Services` `Payment Security` `Regulatory Risk Assessment`
+
 ### Web and Tools
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -93,9 +102,10 @@ My work spans production-grade cloud data pipelines (Azure, Databricks, PySpark)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-### Developing — Security and Quantitative Systems
+### Developing
 
-`AI Safety` `AI Governance` `Responsible AI` `AI Risk Assessment` `Cybersecurity Fundamentals` `Network Security` `Quantitative Analysis` `Statistical Modeling` `Big Data Systems`
+`Network Security` `Threat Modeling` `Vulnerability Assessment` `SIEM Fundamentals`
+`Penetration Testing` `Cryptography` `Responsible AI` `AI Governance` `Quantitative Analysis`
 
 ---
 
@@ -103,8 +113,21 @@ My work spans production-grade cloud data pipelines (Azure, Databricks, PySpark)
 
 | Certification | Issuer | Status |
 |---|---|---|
+| Microsoft Security, Compliance & Identity (SC-900) | Microsoft | In Progress |
 | AI Safety Fundamentals | BlueDot Impact | In Progress |
 | Bloomberg Market Concepts (BMC) | Bloomberg | In Progress |
+
+---
+
+## Beyond the Code
+
+| | |
+|---|---|
+| **Youth Policy Advocate** · JEF Europe | EU-level advocacy on digital rights, data privacy, and democratic governance. Representing youth in European policy debates on digital regulation. |
+| **Mentee** · Mentor the Young Bulgaria | National program connecting emerging professionals with senior C-suite and business leaders — focused on strategic leadership and long-term career development. |
+| **Social Entrepreneurship Lab** · ERUA | Pan-European innovation and sustainability projects with cross-border teams across ERUA partner universities. TachoCross: Top 3 winner from 189 applicants. |
+| **Student Council Representative** · NBU | University governance, student advocacy, and academic policy — representing the student community in institutional decisions. |
+| **National Cheerleading** · NBU Team | 1st, 2nd, and 3rd place finishes at national level. Represented Bulgaria at official national events and major stadium competitions. |
 
 ---
 
@@ -123,11 +146,13 @@ My work spans production-grade cloud data pipelines (Azure, Databricks, PySpark)
 
 ## Open to Collaborating On
 
-- **AI safety** — evaluation frameworks, responsible AI tooling, alignment research
-- **FinTech and RegTech** — compliance automation, payments systems, financial data pipelines
-- **Cloud data engineering** — Azure pipelines, data architecture, data quality
+I'm drawn to projects where the technology serves a genuine purpose — systems that protect people, automate compliance that actually matters, AI that stays within safe boundaries, and financial tools built with honesty.
+
+- **Cybersecurity and data privacy** — security-aware systems, compliance automation, privacy-by-design
+- **AI safety and governance** — responsible AI, evaluation frameworks, alignment-aware engineering
+- **FinTech and RegTech** — payment security, financial compliance, regulatory automation
+- **Cloud data engineering** — Azure pipelines, data architecture, data governance
 - **ESG and sustainability technology**
-- **Security-conscious AI system design**
 
 <br/>
 
