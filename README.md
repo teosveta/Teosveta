@@ -7,7 +7,7 @@
      - Project links: add actual repo URLs when repos are ready
      ============================================================ -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=1D4ED8&height=200&section=header&text=Teosveta%20Velkova&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Data%20%C2%B7%20Security%20%C2%B7%20AI%20%C2%B7%20FinTech%20%C2%B7%20Cloud%20Engineering&descSize=15&descAlignY=58&descColor=BFDBFE)
+![header](https://capsule-render.vercel.app/api?type=waving&color=1D4ED8&height=200&section=header&text=Teosveta%20Velkova&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Data%20%C2%B7%20Security%20%C2%B7%20AI%20%C2%B7%20FinTech%20Engineering&descSize=15&descAlignY=58&descColor=BFDBFE)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/teosveta-velkova/">
