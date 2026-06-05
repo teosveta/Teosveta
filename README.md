@@ -7,7 +7,7 @@
      - Add Azure cert badges as you earn them (DP-900, AI-900, SC-900)
      ============================================================ -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=1D4ED8&height=150&section=header&text=Teosveta%20Velkova&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%C2%B7%20Data%20Engineer%20%7C%20FinTech%20%7C%20RegTech%20%7C%20Cybersecurity%20%7C%20AI%20Safety&descSize=15&descAlignY=65&descColor=BFDBFE)
+![header](https://capsule-render.vercel.app/api?type=waving&color=1D4ED8&height=200&section=header&text=Teosveta%20Velkova&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20%C2%B7%20Data%20Engineer%20%7C%20FinTech%20%7C%20RegTech%20%7C%20Cybersecurity%20%7C%20AI%20Safety&descSize=15&descAlignY=58&descColor=BFDBFE)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/teosveta-velkova/">
