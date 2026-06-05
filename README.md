@@ -1,10 +1,3 @@
-<!-- ============================================================
-     TEOSVETA VELKOVA — GitHub Profile README
-     Designed to be stable for ~1 year without edits.
-     Only update needed: swap "In Progress" to "Completed" in
-     the Certifications table as you pass each one.
-     ============================================================ -->
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=1D4ED8&amp;height=200&amp;section=header&amp;text=Teosveta%20Velkova&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=36&amp;desc=AI%20%C2%B7%20Security%20%C2%B7%20Data%20%C2%B7%20FinTech%20%C2%B7%20Cloud%20Engineering&amp;descSize=15&amp;descAlignY=58&amp;descColor=BFDBFE" width="100%" alt="header"/><br/>
   <a href="https://www.linkedin.com/in/teosveta-velkova/">
@@ -86,7 +79,6 @@ Computer Science student at New Bulgarian University, Sofia. Cloud data engineer
 
 ### Web and Tools
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
