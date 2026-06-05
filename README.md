@@ -1,13 +1,11 @@
 <!-- ============================================================
      TEOSVETA VELKOVA — GitHub Profile README
      Designed to be stable for ~1 year without edits.
-
-     ONLY things you may want to update over time:
-     - Certification statuses: change "In Progress" → "Completed" as you pass them
-     - Project links: add actual repo URLs when repos are ready
+     Only update needed: swap "In Progress" to "Completed" in
+     the Certifications table as you pass each one.
      ============================================================ -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=1D4ED8&height=200&section=header&text=Teosveta%20Velkova&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Data%20%C2%B7%20Security%20%C2%B7%20AI%20%C2%B7%20FinTech%20Engineering&descSize=15&descAlignY=58&descColor=BFDBFE)
+![header](https://capsule-render.vercel.app/api?type=waving&color=1D4ED8&height=200&section=header&text=Teosveta%20Velkova&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Data%20%C2%B7%20Security%20%C2%B7%20AI%20%7C%20FinTech%20%C2%B7%20RegTech%20%7C%20Cloud%20Engineering&descSize=15&descAlignY=58&descColor=BFDBFE)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/teosveta-velkova/">
@@ -35,8 +33,6 @@ I build systems at the intersection of **technology**, **regulation**, and **rea
 
 What drives me isn't a single technology or role. It's the intersection itself: engineering that understands the law, compliance work that runs on code, AI systems that need to be trustworthy. I work across cloud data engineering, cybersecurity, FinTech, and AI safety — not because I can't choose, but because the interesting problems live exactly where these fields meet.
 
-Beyond the code: I advocate for digital rights and EU democracy at JEF Europe, compete in pan-European innovation labs, and spent a year and a half as a **national-level cheerleading competitor** — which turned out to be surprisingly good training for deadline-driven hackathons.
-
 ---
 
 ## What I Work On
@@ -50,19 +46,6 @@ Beyond the code: I advocate for digital rights and EU democracy at JEF Europe, c
 
 ---
 
-## Selected Projects
-
-> The common thread across domains: systems built at the intersection of technology, regulation, and social impact.
-
-| Project | What It Does | Recognition |
-|---|---|---|
-| **TachoCross** | GDPR-compliant SaaS platform automating EU posting declarations via RTPD integration — privacy-by-design for cross-border worker personal data under Mobility Package I | Top 3 / 189 Teams · ERUA Pan-European Social Entrepreneurship Lab |
-| **Erosion Intelligence Platform** | Full-stack AI and IoT environmental monitoring for solar PV parks — satellite imagery, ML erosion detection, soil carbon analysis, and automated ESG reporting | Most Innovative Solution · AmCham Bulgaria Hackathon |
-| **HumAct** | ESG automation platform converting employee volunteering into quantifiable Social ESG metrics with automated compliance reporting | 1st Place · Digital Marathon Startup Hackathon |
-| **SmartWallet** | AI-powered student finance platform with payment security design, multi-currency wallets, fraud detection, and gamified financial education | 3rd Place · Paysafe AI Hackathon |
-
----
-
 ## Tech Stack
 
 ### Languages
@@ -71,6 +54,7 @@ Beyond the code: I advocate for digital rights and EU democracy at JEF Europe, c
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -81,6 +65,7 @@ Beyond the code: I advocate for digital rights and EU democracy at JEF Europe, c
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### AI and Data Science
@@ -91,43 +76,46 @@ Beyond the code: I advocate for digital rights and EU democracy at JEF Europe, c
 
 ### Security and Compliance
 
-`GDPR Compliance` `Privacy-by-Design` `Role-Based Access Control` `Audit Trail Management`
-`EU NIS2 Awareness` `Azure Security Services` `Payment Security` `Regulatory Risk Assessment`
+![GDPR Compliance](https://img.shields.io/badge/GDPR%20Compliance-1E3A8A?style=for-the-badge)
+![Privacy-by-Design](https://img.shields.io/badge/Privacy--by--Design-1E3A8A?style=for-the-badge)
+![RBAC](https://img.shields.io/badge/RBAC-1E3A8A?style=for-the-badge)
+![Audit Trails](https://img.shields.io/badge/Audit%20Trails-1E3A8A?style=for-the-badge)
+![EU NIS2](https://img.shields.io/badge/EU%20NIS2-1E3A8A?style=for-the-badge)
+![Azure Security](https://img.shields.io/badge/Azure%20Security-1E3A8A?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Payment Security](https://img.shields.io/badge/Payment%20Security-1E3A8A?style=for-the-badge)
+![Compliance Automation](https://img.shields.io/badge/Compliance%20Automation-1E3A8A?style=for-the-badge)
 
 ### Web and Tools
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)
 
 ### Developing
 
-`Network Security` `Threat Modeling` `Vulnerability Assessment` `SIEM Fundamentals`
-`Penetration Testing` `Cryptography` `Responsible AI` `AI Governance` `Quantitative Analysis`
+![Network Security](https://img.shields.io/badge/Network%20Security-4B5563?style=for-the-badge)
+![Threat Modeling](https://img.shields.io/badge/Threat%20Modeling-4B5563?style=for-the-badge)
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-4B5563?style=for-the-badge)
+![SIEM](https://img.shields.io/badge/SIEM-4B5563?style=for-the-badge)
+![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-4B5563?style=for-the-badge)
+![Cryptography](https://img.shields.io/badge/Cryptography-4B5563?style=for-the-badge)
+![Responsible AI](https://img.shields.io/badge/Responsible%20AI-4B5563?style=for-the-badge)
+![AI Governance](https://img.shields.io/badge/AI%20Governance-4B5563?style=for-the-badge)
+![Quantitative Analysis](https://img.shields.io/badge/Quantitative%20Analysis-4B5563?style=for-the-badge)
 
 ---
 
 ## Certifications
 
-| Certification | Issuer | Status |
-|---|---|---|
-| Microsoft Security, Compliance & Identity (SC-900) | Microsoft | In Progress |
-| AI Safety Fundamentals | BlueDot Impact | In Progress |
-| Bloomberg Market Concepts (BMC) | Bloomberg | In Progress |
-
----
-
-## Beyond the Code
-
-| | |
+| Certification | Issuer |
 |---|---|
-| **Youth Policy Advocate** · JEF Europe | EU-level advocacy on digital rights, data privacy, and democratic governance. Representing youth in European policy debates on digital regulation. |
-| **Mentee** · Mentor the Young Bulgaria | National program connecting emerging professionals with senior C-suite and business leaders — focused on strategic leadership and long-term career development. |
-| **Social Entrepreneurship Lab** · ERUA | Pan-European innovation and sustainability projects with cross-border teams across ERUA partner universities. TachoCross: Top 3 winner from 189 applicants. |
-| **Student Council Representative** · NBU | University governance, student advocacy, and academic policy — representing the student community in institutional decisions. |
-| **National Cheerleading** · NBU Team | 1st, 2nd, and 3rd place finishes at national level. Represented Bulgaria at official national events and major stadium competitions. |
+| Microsoft Security, Compliance & Identity (SC-900) | Microsoft |
+| AI Safety Fundamentals | BlueDot Impact |
+| Bloomberg Market Concepts (BMC) | Bloomberg |
 
 ---
 
@@ -146,7 +134,7 @@ Beyond the code: I advocate for digital rights and EU democracy at JEF Europe, c
 
 ## Open to Collaborating On
 
-I'm drawn to projects where the technology serves a genuine purpose — systems that protect people, automate compliance that actually matters, AI that stays within safe boundaries, and financial tools built with honesty.
+I'm drawn to projects where the technology serves a genuine purpose — systems that protect people, automate compliance that matters, AI that stays within safe boundaries, and financial tools built with honesty.
 
 - **Cybersecurity and data privacy** — security-aware systems, compliance automation, privacy-by-design
 - **AI safety and governance** — responsible AI, evaluation frameworks, alignment-aware engineering
