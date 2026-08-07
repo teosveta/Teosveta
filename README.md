@@ -105,7 +105,6 @@ Computer Science student at New Bulgarian University, Sofia. Cloud data engineer
 |---|---|
 | Microsoft Security, Compliance & Identity (SC-900) | Microsoft |
 | AI Safety Fundamentals | BlueDot Impact |
-| Bloomberg Market Concepts (BMC) | Bloomberg |
 
 ---
 
