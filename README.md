@@ -98,6 +98,26 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=teosveta&theme=tokyonight" alt="Most Committed Language" height="160"/>
 </div>
 
+## GitHub Stats
+ 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teosveta&theme=tokyonight" alt="GitHub Stats" width="100%"/>
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=teosveta&theme=tokyonight" alt="Repos by Language" height="160"/>
+  &#160;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=teosveta&theme=tokyonight" alt="Most Committed Language" height="160"/>
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=teosveta&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+</div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=teosveta&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="100%"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=teosveta&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" width="100%"/>
+</div>
+
 
 <br/>
 
