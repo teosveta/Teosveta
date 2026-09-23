@@ -47,7 +47,6 @@
 ### Security and Compliance
 
 ![GDPR Compliance](https://img.shields.io/badge/GDPR%20Compliance-1E3A8A?style=for-the-badge)
-![Privacy-by-Design](https://img.shields.io/badge/Privacy--by--Design-1E3A8A?style=for-the-badge)
 ![RBAC](https://img.shields.io/badge/RBAC-1E3A8A?style=for-the-badge)
 ![Audit Trails](https://img.shields.io/badge/Audit%20Trails-1E3A8A?style=for-the-badge)
 ![EU NIS2](https://img.shields.io/badge/EU%20NIS2-1E3A8A?style=for-the-badge)
