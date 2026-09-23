@@ -26,7 +26,6 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -48,13 +47,14 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-0F766E?style=for-the-badge)
+![LLM Orchestration](https://img.shields.io/badge/LLM%20Orchestration-0F766E?style=for-the-badge)
 
-### FinTech
+### AI Safety and Governance
 
-![FinTech](https://img.shields.io/badge/FinTech-0F766E?style=for-the-badge)
-![Payment Security](https://img.shields.io/badge/Payment%20Security-0F766E?style=for-the-badge)
-![Fraud Detection](https://img.shields.io/badge/Fraud%20Detection-0F766E?style=for-the-badge)
-![Digital Wallets](https://img.shields.io/badge/Digital%20Wallets-0F766E?style=for-the-badge)
+![AI Safety](https://img.shields.io/badge/AI%20Safety-4B5563?style=for-the-badge)
+![Responsible AI](https://img.shields.io/badge/Responsible%20AI-4B5563?style=for-the-badge)
+![AI Governance](https://img.shields.io/badge/AI%20Governance-4B5563?style=for-the-badge)
 
 ### Security and Compliance
 
@@ -66,6 +66,9 @@
 ![Azure Security](https://img.shields.io/badge/Azure%20Security-1E3A8A?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Payment Security](https://img.shields.io/badge/Payment%20Security-1E3A8A?style=for-the-badge)
 ![Compliance Automation](https://img.shields.io/badge/Compliance%20Automation-1E3A8A?style=for-the-badge)
+![Network Security](https://img.shields.io/badge/Network%20Security-1E3A8A?style=for-the-badge)
+![Cryptography](https://img.shields.io/badge/Cryptography-1E3A8A?style=for-the-badge)
+![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-1E3A8A?style=for-the-badge)
 
 ### Tools and Web
 
@@ -75,19 +78,6 @@
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)
-
-### Developing
-
-![Network Security](https://img.shields.io/badge/Network%20Security-4B5563?style=for-the-badge)
-![Threat Modeling](https://img.shields.io/badge/Threat%20Modeling-4B5563?style=for-the-badge)
-![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-4B5563?style=for-the-badge)
-![SIEM](https://img.shields.io/badge/SIEM-4B5563?style=for-the-badge)
-![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-4B5563?style=for-the-badge)
-![Cryptography](https://img.shields.io/badge/Cryptography-4B5563?style=for-the-badge)
-![Responsible AI](https://img.shields.io/badge/Responsible%20AI-4B5563?style=for-the-badge)
-![AI Governance](https://img.shields.io/badge/AI%20Governance-4B5563?style=for-the-badge)
-![Quantitative Analysis](https://img.shields.io/badge/Quantitative%20Analysis-4B5563?style=for-the-badge)
 
 ---
 
